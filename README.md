@@ -11,7 +11,7 @@ TODO: find equivalent modules in nim.
 
 >If you're going for speed / leaderboard, Python is usually your best bet. Suggested libraries to be familiar with include:
 >
->stdlib: binascii, collections (especially defaultdict), fractions (gcd), itertools (combinations, combinations_with_replacement, >permutations, product, izip, chain), md5, re, os/sys.
+>stdlib: binascii, collections (especially defaultdict), fractions (gcd), itertools (combinations, combinations_with_replacement, permutations, product, izip, chain), md5, re, os/sys.
 >
 >Non-std: networkx (graphs and shortest path), sympy (isprime()), numpy (efficient representation of large arrays).
 >
@@ -25,3 +25,8 @@ TODO: find equivalent modules in nim.
 >
 > **-nneonneo**
 
+#### Satisfying Solutions
+
+[Peter Norvig's AoC 2016](https://nbviewer.jupyter.org/url/norvig.com/ipython/Advent%20of%20Code.ipynb)
+
+Complex as 2d vector -> Clever!
